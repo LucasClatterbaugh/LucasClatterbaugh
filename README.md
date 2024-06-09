@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Credit Card Fraud Detection using Machine Learning**
 
-- 🌱 I’m currently learning **AWS and Azure**
+- 🌱 I’m currently learning **AWS**
 
-- ✍ I’m sharping my skills on **SQL and PowerBI**
+- ✍ I’m sharping my skills on **SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LucasClatterbaugh/Portfolio](https://github.com/LucasClatterbaugh/Portfolio)
 
